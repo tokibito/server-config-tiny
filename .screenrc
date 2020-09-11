@@ -1,0 +1,6 @@
+defencoding utf8
+escape ^z^z
+hardstatus alwayslastline %w
+startup_message off
+defscrollback 50000
+vbell off
